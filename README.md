@@ -26,8 +26,9 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 
 ## 模型驗證手法
 有關模型驗證的方法參考:
+- MTK, TC-Eval is a Traditional Chinese evaluation suite for foundation models (https://github.com/mtkresearch/MR-Models/tree/main/TC-Eval)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MjYxNjMyLDI4MTgxMzc2MSwtNjc3NT
-IzOTYwXX0=
+eyJoaXN0b3J5IjpbLTUyMDYyMjYwMV19
 -->
