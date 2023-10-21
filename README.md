@@ -19,6 +19,10 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 2023/10/20 (更新) 一些相關中文資料集:
 #### 簡體中文資料集:
 - 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
+
+## 資料集社群
+有關繁體中文資料集社群：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ3ODE3MDFdfQ==
+eyJoaXN0b3J5IjpbMTg5MjMwNzMyMSwtMTExNDc4MTcwMV19
 -->
