@@ -11,7 +11,7 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 - TAIDE計畫的測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 
 
-### 來源自-Github 
+### 來源自-Github [![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png ":octocat:")](https://github.com/stuser/Awesome_TC_Datasets/commit/cae06b66d330b4bc9772d7d11e15535b8005cba9 ":octocat: Added .gitattributes & .gitignore files")
 一些github平台上的繁體中文資料集:
 - 聯發創新基地（MediaTek Research)(https://github.com/mtkresearch/MR-Models/tree/main)
 
@@ -30,6 +30,6 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYxMDcxNjIsLTIxMDE3MjI3MzZdfQ
-==
+eyJoaXN0b3J5IjpbLTExNzM5NTkxNzQsLTE4MTYxMDcxNjIsLT
+IxMDE3MjI3MzZdfQ==
 -->
