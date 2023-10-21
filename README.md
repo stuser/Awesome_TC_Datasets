@@ -22,7 +22,9 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 
 ## 資料集社群
 有關繁體中文資料集社群：
+- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjMwNzMyMSwtMTExNDc4MTcwMV19
+eyJoaXN0b3J5IjpbLTY3NzUyMzk2MCwtMTExNDc4MTcwMV19
 -->
