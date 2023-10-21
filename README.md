@@ -16,7 +16,9 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 - 聯發創新基地（MediaTek Research)(https://github.com/mtkresearch/MR-Models/tree/main)
 
 ### 其它來源
-2023/10/20 (更新) 一些中文資料集:
+2023/10/20 (更新) 一些相關中文資料集:
+#### 簡體中文資料集:
+- 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTMwNTMyMywxMzk3OTAxNjQ4XX0=
+eyJoaXN0b3J5IjpbLTExMTQ3ODE3MDFdfQ==
 -->
