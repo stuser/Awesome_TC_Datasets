@@ -24,7 +24,10 @@ Awesome Traditional Chinese Datasets: 我們收集有關繁體中文資料集資
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 
+## 模型驗證手法
+有關模型驗證的方法參考:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxODEzNzYxLC02Nzc1MjM5NjBdfQ==
+eyJoaXN0b3J5IjpbNTY2MjYxNjMyLDI4MTgxMzc2MSwtNjc3NT
+IzOTYwXX0=
 -->
