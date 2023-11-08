@@ -6,7 +6,7 @@ Awesome Traditional Chinese Datasets:
 
 ### 來源自-Hugging face 🤗
 一些HF平台上的繁體中文資料集:
-- Taiwan-LLaMa模型訓練資料集:(https://huggingface.co/datasets/yentinglin/traditional_mandarin_instructions)
+- Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/traditional_mandarin_instructions)
 - Erhwen,Kuo個人整理,一些知名的語料集之繁體中文化:(https://huggingface.co/erhwenkuo)
 - 網頁新聞,由簡體轉繁體(文化對齊問題請自行評估):(https://huggingface.co/datasets/jed351/Traditional-Chinese-Common-Crawl-Filtered)
 - TAIDE計劃-訓練資料集: (https://taide.tw/public/trainData)
@@ -33,5 +33,6 @@ Awesome Traditional Chinese Datasets:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTczNDgsMTQxNTIzMjMyMV19
+eyJoaXN0b3J5IjpbLTE3MDcxNTEwMTAsMTYzMTczNDgsMTQxNT
+IzMjMyMV19
 -->
