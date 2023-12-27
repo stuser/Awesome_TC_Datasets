@@ -17,6 +17,7 @@ Awesome Traditional Chinese Datasets:
 
 一些github平台上的繁體中文資料集:
 - 聯發創新基地（MediaTek Research)(https://github.com/mtkresearch/MR-Models/tree/main)
+- NCU-IISR X 臺灣事實查核中心(https://github.com/jason50706/CDDTC/tree/main)
 
 ### 其它來源
 一些相關中文資料集:
