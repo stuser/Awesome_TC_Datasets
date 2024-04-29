@@ -12,7 +12,7 @@ Awesome Traditional Chinese Datasets:
 - TAIDE計劃-訓練資料集: (https://taide.tw/public/trainData)
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
-- 
+
 
 ### 來源自-Github <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
 
@@ -37,7 +37,7 @@ Awesome Traditional Chinese Datasets:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NTIxNTI3LDYwMTQ2ODM4MywtMTcwNz
-E1MTAxMCwtMTg3MjU2NDQyNiwtMTcwNzE1MTAxMCwxNjMxNzM0
-OCwxNDE1MjMyMzIxXX0=
+eyJoaXN0b3J5IjpbLTEwMjY0NTYyMTQsNTg0NTIxNTI3LDYwMT
+Q2ODM4MywtMTcwNzE1MTAxMCwtMTg3MjU2NDQyNiwtMTcwNzE1
+MTAxMCwxNjMxNzM0OCwxNDE1MjMyMzIxXX0=
 -->
