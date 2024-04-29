@@ -18,6 +18,8 @@ Awesome Traditional Chinese Datasets:
 一些github平台上的繁體中文資料集:
 - 聯發創新基地（MediaTek Research)(https://github.com/mtkresearch/MR-Models/tree/main)
 - NCU-IISR X 臺灣事實查核中心(https://github.com/jason50706/CDDTC/tree/main)
+- NTU-NLP Lab: Traditional-Chinese Alpaca
+(https://github.com/ntunlplab/traditional-chinese-alpaca)
 
 ### 其它來源
 一些相關中文資料集:
@@ -34,7 +36,7 @@ Awesome Traditional Chinese Datasets:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTEzNDQ3OSw2MDE0NjgzODMsLTE3MD
+eyJoaXN0b3J5IjpbMTUxNTUzNjE4MCw2MDE0NjgzODMsLTE3MD
 cxNTEwMTAsLTE4NzI1NjQ0MjYsLTE3MDcxNTEwMTAsMTYzMTcz
 NDgsMTQxNTIzMjMyMV19
 -->
