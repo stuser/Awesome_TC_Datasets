@@ -21,6 +21,7 @@ Awesome Traditional Chinese Datasets:
 
 一些github平台上的繁體中文資料集:
 - 聯發創新基地（MediaTek Research)(https://github.com/mtkresearch/MR-Models/tree/main)
+- 聯發創新基地 Fineweb-zhtw (https://github.com/mtkresearch/fineweb-zhtw)
 - NCU-IISR X 臺灣事實查核中心(https://github.com/jason50706/CDDTC/tree/main)
 - NTU-NLP Lab: Traditional-Chinese Alpaca (僅供研究使用)
 (https://github.com/ntunlplab/traditional-chinese-alpaca)
