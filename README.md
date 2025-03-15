@@ -5,9 +5,9 @@ Awesome Traditional Chinese Datasets:
 ## 繁體中文資料集
 
 ### 來源自-Hugging face 🤗
-一些HF平台上的繁體中文資料集:
-- Fineweb-zhtw 繁體中文網路文本資料(107GB):[https://huggingface.co/datasets/voidful/fineweb-zhtw)](https://huggingface.co/datasets/voidful/fineweb-zhtw)
-- Taiwan-LLaMa模型訓練資料集:[https://huggingface.co/datasets/yentinglin/TaiwanChat](https://huggingface.co/datasets/yentinglin/TaiwanChat)
+一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
+- Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
+- Taiwan-LLaMa模型訓練資料集:(https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data)
 - IMA 胡長松的台語小說語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-ots)
 - Erhwen,Kuo個人整理,一些知名的語料集之繁體中文化:(https://huggingface.co/erhwenkuo)
