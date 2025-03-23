@@ -9,13 +9,21 @@ Awesome Traditional Chinese Datasets:
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集:(https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data)
-- IMA 胡長松的台語小說語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-ots)
 - Erhwen,Kuo個人整理,一些知名的語料集之繁體中文化:(https://huggingface.co/erhwenkuo)
 - 網頁新聞,由簡體轉繁體(文化對齊問題請自行評估):(https://huggingface.co/datasets/jed351/Traditional-Chinese-Common-Crawl-Filtered)
 - TAIDE計劃-訓練資料集:(https://taide.tw/public/trainData)
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
 
+#### 台語文本資料集
+台語文本資料集，目前主要來自作家胡長松老師的臉書文章，轉貼整理如下。
+IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.co/IMA-Taiwan)
+- 胡長松語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-ots)
+- 陳金順語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-tks)
+- 洪明道語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-abt)
+- 林瑞崐語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-ljk)
+- 王羅蜜多語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-olbt)
+- 高嘉徽語料庫:(https://huggingface.co/datasets/IMA-Taiwan/taigi-literature-kkh)
 
 ### 來源自-Github <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
 
