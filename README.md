@@ -36,20 +36,18 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 
 ### 其它來源
 一些相關中文資料集:
+- 繁體中文手寫資料集(image) (https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset)
+
 #### 簡體中文資料集:
 - 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
-
-## 資料集社群
-有關繁體中文資料集社群：
-- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 
 ## 模型驗證手法
 有關模型驗證的方法參考:
 - MTK, TC-Eval is a Traditional Chinese evaluation suite for foundation models (https://github.com/mtkresearch/MR-Models/tree/main/TC-Eval)
 
+## 相關工具
+- 臺灣話音譯器和標記器 Taibun (https://github.com/andreihar/taibun)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY0NTYyMTQsNTg0NTIxNTI3LDYwMT
-Q2ODM4MywtMTcwNzE1MTAxMCwtMTg3MjU2NDQyNiwtMTcwNzE1
-MTAxMCwxNjMxNzM0OCwxNDE1MjMyMzIxXX0=
--->
+## 資料集社群
+有關繁體中文資料集社群：
+- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
