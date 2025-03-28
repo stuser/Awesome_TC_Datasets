@@ -47,6 +47,7 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 
 ## 相關工具
 - 臺灣話音譯器和標記器 Taibun (https://github.com/andreihar/taibun)
+- 臺灣言語工具 (https://github.com/i3thuan5/tai5-uan5_gian5-gi2_kang1-ku7)
 
 ## 資料集社群
 有關繁體中文資料集社群：
