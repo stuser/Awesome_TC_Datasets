@@ -14,6 +14,7 @@ Awesome Traditional Chinese Datasets:
 - TAIDE計劃-訓練資料集:(https://taide.tw/public/trainData)
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
+- Twinkle AI 繁體中文推理:(https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448)
 
 #### 台語文本資料集
 台語文本資料集，目前主要來自作家胡長松老師的臉書文章，轉貼整理如下。
