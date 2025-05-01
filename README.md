@@ -15,6 +15,8 @@ Awesome Traditional Chinese Datasets:
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
 
+
+
 #### 台語文本資料集
 台語文本資料集，目前主要來自作家胡長松老師的臉書文章，轉貼整理如下。
 IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.co/IMA-Taiwan)
@@ -57,5 +59,5 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTQ1Mjc4M119
+eyJoaXN0b3J5IjpbNzk4NTQ2MTFdfQ==
 -->
