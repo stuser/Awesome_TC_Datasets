@@ -16,7 +16,13 @@ Awesome Traditional Chinese Datasets:
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
 
 #### 推理資料集
-
+🤗 twinkle-ai/Tranditional Chinese Reasoning Datasets https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448
+1. 👩‍🏫數理推理 - MIT License
+🤗 twinkle-ai/tw-math-reasoning-2k
+2. 🇹🇼日常推理 - MIT License
+🤗 twinkle-ai/tw-reasoning-instruct-50k
+3. 🛠Function Calling - Creative Commons Attribution 4.0 License
+🤗 twinkle-ai/tw-function-call-reasoning-10k
 
 #### 台語文本資料集
 台語文本資料集，目前主要來自作家胡長松老師的臉書文章，轉貼整理如下。
@@ -60,5 +66,5 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyNTk5NzNdfQ==
+eyJoaXN0b3J5IjpbLTU4MTk2NjEzOV19
 -->
