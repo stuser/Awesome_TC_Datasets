@@ -17,8 +17,8 @@ Awesome Traditional Chinese Datasets:
 
 #### 推理資料集
 🤗 twinkle-ai/Tranditional Chinese Reasoning Datasets https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448
-1. 👩‍🏫數理推理 - MIT License : twinkle-ai/tw-math-reasoning-2k
-2. 🇹🇼日常推理 - MIT License : twinkle-ai/tw-reasoning-instruct-50k
+1. 👩‍🏫數理推理 - MIT License : [twinkle-ai/tw-math-reasoning-2k](https://huggingface.co/datasets/twinkle-ai/tw-math-reasoning-2k)
+2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-ai/tw-reasoning-instruct-50k)
 3. 🛠Function Calling - Creative Commons Attribution 4.0 License : twinkle-ai/tw-function-call-reasoning-10k
 
 #### 台語文本資料集
@@ -63,5 +63,5 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1ODEyNDM2XX0=
+eyJoaXN0b3J5IjpbLTE0NzgxODE3NDVdfQ==
 -->
