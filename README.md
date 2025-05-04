@@ -14,10 +14,9 @@ Awesome Traditional Chinese Datasets:
 - TAIDE計劃-訓練資料集: (https://taide.tw/public/trainData)
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
-- Twinkle AI 繁體中文推理:(https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448)
 
 #### 推理資料集
-🤗 twinkle-ai/Tranditional Chinese Reasoning Datasets https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448
+🤗 Twinkle AI 繁體中文推理:(https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448)
 1. 👩‍🏫數理推理 - MIT License : [twinkle-ai/tw-math-reasoning-2k](https://huggingface.co/datasets/twinkle-ai/tw-math-reasoning-2k)
 2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-ai/tw-reasoning-instruct-50k)
 3. 🛠Function Calling - Creative Commons Attribution 4.0 License : [twinkle-ai/tw-function-call-reasoning-10k](https://huggingface.co/datasets/twinkle-ai/tw-function-call-reasoning-10k)
