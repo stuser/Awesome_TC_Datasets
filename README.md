@@ -47,10 +47,6 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 #### 簡體中文資料集:
 - 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
 
-## 資料集社群
-有關繁體中文資料集社群：
-- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
-
 ## 模型驗證手法
 有關模型驗證的方法參考:
 - MTK, TC-Eval is a Traditional Chinese evaluation suite for foundation models (https://github.com/mtkresearch/MR-Models/tree/main/TC-Eval)
