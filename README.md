@@ -18,7 +18,7 @@ Awesome Traditional Chinese Datasets:
 - lianghsun 台灣常見任務對話集: (https://huggingface.co/datasets/lianghsun/tw-instruct-500k)
 
 #### 推理資料集
-🤗 Twinkle AI 繁體中文推理:
+🤗 Twinkle AI 繁體中文推理:[]
 1. 👩‍🏫數理推理 - MIT License : [twinkle-ai/tw-math-reasoning-2k](https://huggingface.co/datasets/twinkle-ai/tw-math-reasoning-2k)
 2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-t-50k)
 3. 🛠Function Calling - Creative Commons Attribution 4.0 License : [twinkle-ai/tw-function-call-reasoning-10k](https://huggingface.co/datasets/winkle-reasoning-10k)
@@ -60,6 +60,7 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
 - [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDQ5Nzg0NywxMzY4ODE4Njk5LDg1OT
-YwNTU3OCw2NDYzODE1NjAsMTEyMDQ3NDc3XX0=
+eyJoaXN0b3J5IjpbLTU1ODI3OTAxNSwxNTY0NDk3ODQ3LDEzNj
+g4MTg2OTksODU5NjA1NTc4LDY0NjM4MTU2MCwxMTIwNDc0Nzdd
+fQ==
 -->
