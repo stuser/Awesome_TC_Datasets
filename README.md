@@ -4,11 +4,12 @@ Awesome Traditional Chinese Datasets:
 
 ## 繁體中文資料集
 
-### 來源自 Hugging Face 🤗
+### 來源自 -Hugging Fface 🤗
 一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
-- TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data)
+- TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data
+- Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - Erhwen,Kuo個人整理,一些知名的語料集之繁體中文化:(https://huggingface.co/erhwenkuo)
 - 網頁新聞,由簡體轉繁體(文化對齊問題請自行評估):(https://huggingface.co/datasets/jed351/Traditional-Chinese-Common-Crawl-Filtered)
 - TAIDE計劃-訓練資料集: (https://taide.tw/public/trainData)
@@ -48,6 +49,10 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 #### 簡體中文資料集:
 - 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
 
+## 資料集社群
+有關繁體中文資料集社群：
+- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
+
 ## 模型驗證手法
 有關模型驗證的方法參考:
 - MTK, TC-Eval is a Traditional Chinese evaluation suite for foundation models (https://github.com/mtkresearch/MR-Models/tree/main/TC-Eval)
@@ -60,5 +65,5 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDQ3NDc3XX0=
+eyJoaXN0b3J5IjpbNjQ2MzgxNTYwLDExMjA0NzQ3N119
 -->
