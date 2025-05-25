@@ -61,8 +61,8 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
-- [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/)
+- [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyMzY1NDksNjQ2MzgxNTYwLDExMj
-A0NzQ3N119
+eyJoaXN0b3J5IjpbODU5NjA1NTc4LDY0NjM4MTU2MCwxMTIwND
+c0NzddfQ==
 -->
