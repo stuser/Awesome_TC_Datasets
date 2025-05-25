@@ -4,7 +4,7 @@ Awesome Traditional Chinese Datasets:
 
 ## 繁體中文資料集
 
-### 來源自 -Hugging Fface 🤗
+### 來源自 Hugging ace 🤗
 一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
@@ -18,7 +18,7 @@ Awesome Traditional Chinese Datasets:
 - lianghsun 台灣常見任務對話集: (https://huggingface.co/datasets/lianghsun/tw-instruct-500k)
 
 #### 推理資料集
-🤗 Twinkle AI 繁體中文推理:(https://huggingface.co/collections/twinkle-ai/tranditional-chinese-reasoning-datasets-6811a5619c2765c93244e448)
+🤗 Twinkle AI 繁體中文推理:(https://huggingface.co/collections/winkle -6811a5619c2765c93244e448)
 1. 👩‍🏫數理推理 - MIT License : [twinkle-ai/tw-math-reasoning-2k](https://huggingface.co/datasets/twinkle-ai/tw-math-reasoning-2k)
 2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-ai/tw-reasoning-instruct-50k)
 3. 🛠Function Calling - Creative Commons Attribution 4.0 License : [twinkle-ai/tw-function-call-reasoning-10k](https://huggingface.co/datasets/twinkle-ai/tw-function-call-reasoning-10k)
@@ -49,10 +49,6 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 #### 簡體中文資料集:
 - 北京智源人工智能研究院-BAAI DataHub（data.baai.ac.cn）:(https://huggingface.co/datasets/BAAI/COIG-PC)
 
-## 資料集社群
-有關繁體中文資料集社群：
-- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
-
 ## 模型驗證手法
 有關模型驗證的方法參考:
 - MTK, TC-Eval is a Traditional Chinese evaluation suite for foundation models (https://github.com/mtkresearch/MR-Models/tree/main/TC-Eval)
@@ -64,6 +60,8 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 ## 資料集社群
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
+- [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MzgxNTYwLDExMjA0NzQ3N119
+eyJoaXN0b3J5IjpbLTUyMTgwOTM4MSw2NDYzODE1NjAsMTEyMD
+Q3NDc3XX0=
 -->
