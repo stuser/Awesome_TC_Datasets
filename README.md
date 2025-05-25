@@ -4,7 +4,7 @@ Awesome Traditional Chinese Datasets:
 
 ## 繁體中文資料集
 
-### 來源自 Hugging ace 🤗
+### 來源自 Huggingace 🤗
 一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
@@ -18,10 +18,10 @@ Awesome Traditional Chinese Datasets:
 - lianghsun 台灣常見任務對話集: (https://huggingface.co/datasets/lianghsun/tw-instruct-500k)
 
 #### 推理資料集
-🤗 Twinkle AI 繁體中文推理:(https://huggingface.co/collections/winkle -6811a5619c2765c93244e448)
+🤗 Twinkle AI 繁體中文推理:(https://huggingface.co/collections/winkle6811a5619c2765c93244e448)
 1. 👩‍🏫數理推理 - MIT License : [twinkle-ai/tw-math-reasoning-2k](https://huggingface.co/datasets/twinkle-ai/tw-math-reasoning-2k)
-2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-ai/tw-reasoning-instruct-50k)
-3. 🛠Function Calling - Creative Commons Attribution 4.0 License : [twinkle-ai/tw-function-call-reasoning-10k](https://huggingface.co/datasets/twinkle-ai/tw-function-call-reasoning-10k)
+2. 🇹🇼日常推理 - MIT License : [twinkle-ai/tw-reasoning-instruct-50k](https://huggingface.co/datasets/twinkle-t-50k)
+3. 🛠Function Calling - Creative Commons Attribution 4.0 License : [twinkle-ai/tw-function-call-reasoning-10k](https://huggingface.co/datasets/winkle-reasoning-10k)
 
 #### 台語文本資料集
 台語文本資料集，目前主要來自作家胡長松老師的臉書文章，轉貼整理如下。
@@ -57,12 +57,9 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 - 臺灣話音譯器和標記器 Taibun (https://github.com/andreihar/taibun)
 - 臺灣言語工具 (https://github.com/i3thuan5/tai5-uan5_gian5-gi2_kang1-ku7)
 
-## 資料集社群
-有關繁體中文資料集社群：
-- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
 - [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NjA1NTc4LDY0NjM4MTU2MCwxMTIwND
-c0NzddfQ==
+eyJoaXN0b3J5IjpbMTM2ODgxODY5OSw4NTk2MDU1NzgsNjQ2Mz
+gxNTYwLDExMjA0NzQ3N119
 -->
