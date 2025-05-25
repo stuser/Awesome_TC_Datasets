@@ -57,10 +57,13 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 - 臺灣話音譯器和標記器 Taibun (https://github.com/andreihar/taibun)
 - 臺灣言語工具 (https://github.com/i3thuan5/tai5-uan5_gian5-gi2_kang1-ku7)
 
+## 資料集社群
+有關繁體中文資料集社群：
+- [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
 - [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODI3OTAxNSwxNTY0NDk3ODQ3LDEzNj
-g4MTg2OTksODU5NjA1NTc4LDY0NjM4MTU2MCwxMTIwNDc0Nzdd
-fQ==
+eyJoaXN0b3J5IjpbMTUzNTUyNjI4NCwtNTU4Mjc5MDE1LDE1Nj
+Q0OTc4NDcsMTM2ODgxODY5OSw4NTk2MDU1NzgsNjQ2MzgxNTYw
+LDExMjA0NzQ3N119
 -->
