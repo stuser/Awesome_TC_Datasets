@@ -6,7 +6,7 @@ Awesome Traditional Chinese Datasets:
 
 ### 來源自 Huggingace 🤗
 一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
-- Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
+
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
@@ -63,7 +63,7 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
 - [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM2NTI1NjIsLTU1ODI3OTAxNSwxNT
-Y0NDk3ODQ3LDEzNjg4MTg2OTksODU5NjA1NTc4LDY0NjM4MTU2
-MCwxMTIwNDc0NzddfQ==
+eyJoaXN0b3J5IjpbLTM0MTA2Nzg4MSwtMTc2MzY1MjU2MiwtNT
+U4Mjc5MDE1LDE1NjQ0OTc4NDcsMTM2ODgxODY5OSw4NTk2MDU1
+NzgsNjQ2MzgxNTYwLDExMjA0NzQ3N119
 -->
