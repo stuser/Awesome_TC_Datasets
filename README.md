@@ -12,7 +12,7 @@ Awesome Traditional Chinese Datasets:
 - [資訊經理協會] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
 
 
-### Huggingace🤗平台
+### Huggingface🤗平台
 一些HF平台上的繁體中文資料集:
 
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
