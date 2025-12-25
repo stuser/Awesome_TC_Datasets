@@ -6,13 +6,14 @@ Awesome Traditional Chinese Datasets:
 
 ### 來源自 Huggingace 🤗
 一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
+- 臺灣主權AI訓練語料庫(Beta版):(https://taic.moda.gov.tw/)
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - Erhwen,Kuo個人整理,一些知名的語料集之繁體中文化:(https://huggingface.co/erhwenkuo)
 - 網頁新聞,由簡體轉繁體(文化對齊問題請自行評估):(https://huggingface.co/datasets/jed351/Traditional-Chinese-Common-Crawl-Filtered)
-- TAIDE計劃-訓練資料集: (https://taide.tw/public/trainData)
+- TAIDE計劃: (https://huggingface.co/taide)
 - TAIDE計畫-測試資料集:(https://huggingface.co/datasets/taide/TAIDE-14-tasks)
 - iKala 開源 TMMLU+ 繁體中文 LLM 測試資料集:(https://huggingface.co/datasets/ikala/tmmluplus)
 - lianghsun 台灣常見任務對話集: (https://huggingface.co/datasets/lianghsun/tw-instruct-500k)
