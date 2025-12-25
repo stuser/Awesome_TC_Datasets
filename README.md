@@ -4,10 +4,17 @@ Awesome Traditional Chinese Datasets:
 
 ## 繁體中文資料集
 
-### 來源自 Huggingace 🤗
-一些HF平台上的繁體中文資料集: （**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 在新分頁開啟）
+### 公民營機構與政府單位
+由公民營機構或政府單位釋出的繁體中文資料集:
+(**按住 Ctrl + 點擊** 或 **⌘ + 點擊** 會在新分頁開啟網站)
 
-- 臺灣主權AI訓練語料庫(Beta版):(https://taic.moda.gov.tw/)
+- [數發部] 臺灣主權AI訓練語料庫(Beta版):(https://taic.moda.gov.tw/)
+- [資訊經理協會] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
+
+
+### Huggingace🤗平台
+一些HF平台上的繁體中文資料集:
+
 - Fineweb-zhtw 繁體中文網路文本資料(107GB):(https://huggingface.co/datasets/voidful/fineweb-zhtw)
 - Taiwan-LLaMa模型訓練資料集: (https://huggingface.co/datasets/yentinglin/TaiwanChat)
 - TWLLM-Data 繁中LLM對話資料集:(https://huggingface.co/datasets/yentinglin/twllm-data
@@ -63,9 +70,4 @@ IMA Taiwan Tongues專案新建且已經公開的語料庫:(https://huggingface.c
 有關繁體中文資料集社群：
 - [FB] [中華民國台灣開源語言資料集_建立、收集、標註、監督、評鑑](https://www.facebook.com/groups/290103150640341/)
 - [FB] [Taiwan Tongues 台灣通用語料庫](https://www.facebook.com/taiwan.tongues)
-- [官網] [Taiwan Tongues 台灣通用語料庫](https://tt.ima.org.tw/) - 讓世界也能說出台灣的語言
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTA2Nzg4MSwtMTc2MzY1MjU2MiwtNT
-U4Mjc5MDE1LDE1NjQ0OTc4NDcsMTM2ODgxODY5OSw4NTk2MDU1
-NzgsNjQ2MzgxNTYwLDExMjA0NzQ3N119
--->
+
